@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(233, 233, 233);
+}
+
+.link{
+    text-decoration: none;
+}
+.link:hover{
+    color: black;
+    text-decoration: underline;
+}
