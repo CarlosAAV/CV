@@ -4,9 +4,6 @@ body, html
     height: 100%;
     background-color:#FDFDFD;
 }
-.navbar{
-  border: none;
-}
 .btn{
     margin: 10px;
 }
@@ -72,3 +69,21 @@ hr{
 .contact a:hover{
   color: #64b5f6;
 }
+
+.img{
+  height: 30rem;
+  width: 30rem;
+}
+.git{
+  position: relative;
+  top:10rem;
+  left: -25rem;
+}
+
+.linked{
+  position: relative;
+  top:5rem;
+  left: 25rem;
+}
+
+
