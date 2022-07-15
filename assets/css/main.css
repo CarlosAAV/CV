@@ -54,7 +54,6 @@ hr{
 
 
 .contact{
-  height:100vh;
   background-color:#616161;
   padding: 13%;
   color: white;
@@ -70,20 +69,14 @@ hr{
   color: #64b5f6;
 }
 
-.img{
-  height: 30rem;
-  width: 30rem;
-}
-.git{
-  position: relative;
-  top:10rem;
-  left: -25rem;
+.altoTarjeta{
+  height: 40rem !important;
 }
 
-.linked{
-  position: relative;
-  top:5rem;
-  left: 25rem;
+img{
+  height: 80%;
 }
+
+
 
 
