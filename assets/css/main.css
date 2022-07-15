@@ -21,6 +21,10 @@ body, html
   background-position: center center;
   background-size: cover;
   display:table;
+  -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size:cover;
+    background-size: cover;
 }
 .centerize{
     width: 100%;
